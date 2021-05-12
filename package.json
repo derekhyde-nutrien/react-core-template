@@ -7,7 +7,7 @@
     "@material-ui/icons": "^3.0.2",
     "formik": "^1.5.2",
     "node-sass": "^4.11.0",
-    "postcss": "^7.0.14",
+    "postcss": "^8.2.10",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
